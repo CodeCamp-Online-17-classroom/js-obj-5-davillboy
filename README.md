@@ -18,3 +18,4 @@ const product1 = {
 };
 const product2 = {}
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
